@@ -1,0 +1,36 @@
+{
+ "updated": "2026-11-11T00:00+11:00",
+ "note": "Backbone preview feed: finished daily closes only, from public market data. No keys, no private data.",
+ "items": [
+  {
+   "id": "BTC",
+   "name": "Bitcoin",
+   "price": 107319.91,
+   "chg": -1.31
+  },
+  {
+   "id": "ETH",
+   "name": "Ethereum",
+   "price": 2984.79,
+   "chg": -3.11
+  },
+  {
+   "id": "SOL",
+   "name": "Solana",
+   "price": 121.22,
+   "chg": -3.12
+  },
+  {
+   "id": "XRP",
+   "name": "XRP",
+   "price": 1.54,
+   "chg": -3.14
+  },
+  {
+   "id": "DOGE",
+   "name": "Dogecoin",
+   "price": 0.099,
+   "chg": -2.1
+  }
+ ]
+}
